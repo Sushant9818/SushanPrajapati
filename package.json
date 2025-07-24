@@ -4,8 +4,8 @@
   },
   "homepage": "https://sushanprajapati.github.io/sushanprajapati",
   "repository": {
-  "type": "git",
-  "url":"https://sushanprajapati.github.io/sushanprajapati"
+    "type": "git",
+    "url": "https://sushanprajapati.github.io/sushanprajapati"
   },
   "scripts": {
     "start": "react-scripts start",
